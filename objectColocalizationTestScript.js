@@ -3,13 +3,13 @@
 // Author: Jeremy Pike, Image Analyst for COMPARE
 
 /*
- * Script for testing object based colocalization analysis. Worflow is as follows:
- * 1) Simualte 3D colocalization test data with ColocalizationSimulator plugin
+ * Script for testing object based colocalization analysis. Workflow is as follows:
+ * 1) Simulate 3D colocalization test data with ColocalizationSimulator plugin
  * 2) Detect spots with SpotDetector plugin
- * 3) Run modifed ColocalizationStudio plugin and print results to console
+ * 3) Run modified ColocalizationStudio plugin and print results to console
  */
 
-// This script uses a modifed version of the ColocalizationStudio plugin. The orginal can be found here:
+// This script uses a modified version of the ColocalizationStudio plugin. The orginal can be found here:
 // http://icy.bioimageanalysis.org/plugin/Colocalization_Studio
 
 
